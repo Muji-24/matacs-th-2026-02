@@ -1,0 +1,6 @@
+.env
+.env.local
+__pycache__/
+*.pyc
+output_ranking.json
+MATACS-TH-2026-02_Candidate_Brief.pdf
